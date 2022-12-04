@@ -10,15 +10,14 @@
 
 <p align="left"> <a href="https://twitter.com/oluochdancun" target="blank"><img src="https://img.shields.io/twitter/follow/oluochdancun?logo=twitter&style=for-the-badge" alt="oluochdancun" /></a> </p>
 
-- 🔭 I’m currently working on **Gym Web App**
+- 🔭 I’m currently working on **E-store**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Django, JavaScript, Python**
 
 - 📫 How to reach me **oluochdancun19@gmail.com**
 
-- ⚡ Fun fact **lived in coast but never went swimming!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
