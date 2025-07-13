@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **E-store**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Penetration Testing**
 
 - 💬 Ask me about **React, Django, JavaScript, Python**
 
